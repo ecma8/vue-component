@@ -5,3 +5,5 @@
 ```html
 <loading v-if="isLoading"></loading>
 ```
+### 结合vuex使用
+* 相关配置稍微有些复杂 后续会补全
