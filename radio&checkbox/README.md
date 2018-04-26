@@ -16,4 +16,3 @@ methods:{
 * checkedList 选中的列表id 单选只能传一个值
 * types 单选复选状态 单选为radio 复选为checkbox
 * getCheckedList 获取选中的按钮列表
-### javascript相关
