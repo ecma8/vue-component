@@ -7,7 +7,7 @@
 ```javscript
 methods:{
     getCheckedList(data){
-        *返回值是数组 如果要传后台 调用toString()方法就可以了
+        //返回值是数组 如果要传后台 调用toString()方法就可以了
     }
 }
 ```
