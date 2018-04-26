@@ -2,7 +2,13 @@
 ## 本组件功能 
 ### html相关
 ```html
-	<check-box :list="goodsType" :checkedList="goodsSelect" @sendCheckedList="getCheckedList" types='radio'></check-box>
+	<check-box
+	    :list="goodsType"
+	    :checkedList="goodsSelect"
+	    @sendCheckedList="getCheckedList"
+	    types='radio'
+	>
+	</check-box>
 ```
 ```javscript
 methods:{
