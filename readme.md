@@ -1,10 +1,12 @@
-###编译打包
+## 项目说明
 
-npm install 
+### 编译打包
+
+npm install  <br/>
 npm run build
 
-###目录结构
-
+### 目录结构
+```
 |-- common
 |   `-- loader.js                       //公共部分
 |-- lib                                 //导出目录
@@ -35,7 +37,7 @@ npm run build
 |           `-- index.js
 |-- package-lock.json
 |-- package.json
-|-- readme.md
+|-- README.md
 |-- src                                  //原始目录
 |   |-- Animate                          //动画库   
 |   |   |-- index.js
@@ -72,3 +74,4 @@ npm run build
 |           |-- index.js
 |           `-- src
 |               `-- Preview.vue
+```
